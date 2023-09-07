@@ -1,6 +1,6 @@
 
   services:
   - type: web
-    name: interstellar
+    name: babysitting
     env: docker
     plan: free
