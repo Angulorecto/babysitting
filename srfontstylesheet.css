@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Wedgie';
+    src: url('angulorecto.github.io/src/fonts/wedgie/WedgieRegular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SeaFire';
+    src: url('angulorecto.github.io/src/fonts/seaweed-fire/SEAWFA_.TTF') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
