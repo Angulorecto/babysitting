@@ -1,18 +1,18 @@
 @font-face {
     font-family: 'Wedgie';
-    src: url('../fonts/wedgie/WedgieRegular.ttf') format('ttf');
+    src: url('../fonts/wedgie/WedgieRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'SeaFire';
-    src: url('../fonts/seaweed-fire/seafire.ttf') format('ttf');
+    src: url('../fonts/seaweed-fire/seafire.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'WarHeroes';
-    src: url('../fonts/warheroes/War-Heroes.ttf') format('ttf');
+    src: url('../fonts/warheroes/War-Heroes.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
