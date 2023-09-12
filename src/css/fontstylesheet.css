@@ -16,3 +16,9 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Autumn';
+    src: url('../fonts/autumnwind/AutumnWind.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
