@@ -22,3 +22,15 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'OpenFlame';
+    src: url('../fonts/open-flame/OpenFlame.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PlanetBenson';
+    src: url('../fonts/planet-benson/planetbe.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
