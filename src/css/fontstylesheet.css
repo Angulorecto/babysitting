@@ -1,60 +1,60 @@
 @font-face {
     font-family: 'Wedgie';
-    src: url('../fonts/wedgie/WedgieRegular.woff') format('woff');
+    src: url('../fonts/WedgieRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'SeaFire';
-    src: url('../fonts/seaweed-fire/seafire.woff') format('woff');
+    src: url('../fonts/seafire.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'WarHeroes';
-    src: url('../fonts/warheroes/War-Heroes.woff') format('woff');
+    src: url('../fonts/War-Heroes.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'Autumn';
-    src: url('../fonts/autumnwind/AutumnWind.woff') format('woff');
+    src: url('../fonts/AutumnWind.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'OpenFlame';
-    src: url('../fonts/open-flame/OpenFlame.woff') format('woff');
+    src: url('../fonts/OpenFlame.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'PlanetBenson';
-    src: url('../fonts/planet-benson/planetbe.woff') format('woff');
+    src: url('../fonts/planetbe.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'RoyalInferno';
-    src: url('../fonts/royal-inferno/RoyalInferno.woff') format('woff');
+    src: url('../fonts/RoyalInferno.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'PlanetBenson';
-    src: url('../fonts/planet-benson/planetbe.woff') format('woff');
+    src: url('../fonts/planetbe.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'SundayMango';
-    src: url('../fonts/sunday-mango/SundayMango.woff') format('woff');
+    src: url('../fonts/SundayMango.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'UnderStation';
-    src: url('../fonts/under-station/UnderStation.woff') format('woff');
+    src: url('../fonts/UnderStation.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
